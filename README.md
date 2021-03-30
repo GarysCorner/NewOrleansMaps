@@ -6,10 +6,13 @@ This is a simple project I created to familurize myself with geospatial librarie
 
 ### Maps
 
-RestaurantsMap.jpg
-RoadProjectsMap.jpg
-SWBMap.jpg
-TrafficCam.jpg
+![RestaurantsMap.jpg](https://github.com/GarysCorner/NewOrleansMaps/blob/master/RestaurantsMap.jpg)
+
+![RoadProjectsMap.jpg](https://github.com/GarysCorner/NewOrleansMaps/blob/master/RoadProjectsMap.jpg)
+
+![SWBMap.jpg](https://github.com/GarysCorner/NewOrleansMaps/blob/master/SWBMap.jpg)
+
+![TrafficCam.jpg](https://github.com/GarysCorner/NewOrleansMaps/blob/master/TrafficCam.jpg)
 
 ### Datasets
 - [Neighborhood Statistical Areas](https://portal-nolagis.opendata.arcgis.com/datasets/neighborhood-statistical-areas?geometry=-90.539%2C29.917%2C-89.229%2C30.125)
